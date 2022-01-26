@@ -1,0 +1,17 @@
+<html>
+    <head></head>
+    <body>
+        <h1>Movies Genre</h1>
+        <ul>
+        {{#movieGenre}}
+            <li>
+                <a href='/movies/{{movieId}}' />
+                    <img src={{posterURL}} alt={{title}} width='200px' /> 
+                    {{title}}
+                </a>
+                   
+            </li>
+        {{/movieGenre}}
+        </ul>
+    </body>
+</html>
