@@ -1,4 +1,4 @@
-# Movies Website
+# Movies Website (WIP: Styling, Login)
 Create a website which will allow the user to keep track of their movie collection.
 
 #### Features
@@ -19,3 +19,9 @@ Create a website which will allow the user to keep track of their movie collecti
 ## 🛠️ Packages
 - [ExpressJS](https://expressjs.com/)
 - [Mustache Express](https://github.com/bryanburgers/node-mustache-express)
+
+## 🔎 Preview
+WIP
+
+## 🔗 Link
+WIP
